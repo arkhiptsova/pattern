@@ -1,11 +1,8 @@
 package FeetNumber;
 
 /*
-Mila Arkhiptcova
+Mila 
 Java application using nested loops that will print two of the following patterns.
-Select either #1 & #4  patterns.
-09/11/2019
-Bellevue University
 Pattern.java
 */
 
